@@ -1,2 +1,1 @@
-# Polynomial-optimize
 # Polynomial-main
